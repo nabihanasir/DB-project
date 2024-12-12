@@ -1,0 +1,17 @@
+
+fruitandVeg{name=apples, quantity=20, price=200.0}
+fruitandVeg{name=onions, quantity=20, price=200.0}
+fruitandVeg{name=tomato, quantity=20, price=200.0}
+fruitandVeg{name=banana, quantity=20, price=200.0}
+meatandSeafood{name=Fish, quantity=20, price=1600.0}
+meatandSeafood{name=Prawns, quantity=20, price=999.0}
+meatandSeafood{name=Chicken, quantity=20, price=1600.0}
+meatandSeafood{name=Meat, quantity=20, price=1500.0}
+breakfast{name=Brown Bread, quantity=20, price=300.0}
+breakfast{name=Eggs, quantity=20, price=150.0}
+breakfast{name=Bread, quantity=20, price=200.0}
+breakfast{name=Jam, quantity=20, price=150.0}
+grocery{name=Macoroni, quantity=20, price=300.0}
+grocery{name=Yellow Daal, quantity=20, price=150.0}
+grocery{name=Sugar, quantity=20, price=300.0}
+grocery{name=Salt, quantity=20, price=150.0}
